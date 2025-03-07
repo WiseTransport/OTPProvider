@@ -1,0 +1,1 @@
+curl -H "Accept: application/zip" https://repo1.maven.org/maven2/org/opentripplanner/otp/2.6.0/otp-2.6.0-shaded.jar -o otp-2.6.0-shaded.jar

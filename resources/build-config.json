@@ -1,0 +1,18 @@
+{
+  "osm": [
+    "source": "https://download.geofabrik.de/europe/hungary-latest.osm.pbf"
+  ],
+  "gtfsDefaults": {
+    "removeRepeatedStops" : true
+  },
+  "transitFeeds": [
+    {
+      "type": "gtfs",
+      "source": "https://go.bkk.hu/api/static/v1/public-gtfs/budapest_gtfs.zip"
+    },
+    {
+      "type": "gtfs",
+      "source": "https://gtfs.kti.hu/public-gtfs/volanbusz_gtfs.zip"
+    }
+  ]
+}

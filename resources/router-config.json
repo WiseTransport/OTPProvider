@@ -1,0 +1,10 @@
+{
+  "updaters": [
+    {
+      "type" : "VEHICLE_POSITIONS",
+      "frequency" : "10s",
+      "url" : "https://go.bkk.hu/api/query/v1/ws/gtfs-rt/full/VehiclePositions.pb?key=${BKK_KEY}",
+      "feedId" : "BKK"
+    }
+  ]
+}
