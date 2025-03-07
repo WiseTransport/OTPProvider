@@ -1,5 +1,9 @@
 ## How to Use
 
+### First time
+
+If starting for the first time, run `download_otp.sh`
+
 ### Build the graph
 
 ```bash
