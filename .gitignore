@@ -2,4 +2,5 @@
 **/*.zip
 **/*.pbf
 **/*.jar
+**/*.pem
 v1.37.yaml
